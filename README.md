@@ -6,7 +6,7 @@
 Шаг 1:
 Склонировать репозиторий на локальный компьютер. (В окне терминала ввести следующую команду:
 ---
-git clone https://github.com/xzescha/docker-jupiter/tree/main
+git clone https://github.com/AlexandrShevchenko1/firstlab.git
 ---
 Шаг 2:
 Создать docker-образ при помощи следующей команды:
